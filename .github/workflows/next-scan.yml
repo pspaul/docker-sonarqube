@@ -7,7 +7,7 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
     
-name: Main Workflow
+name: Main Workflow (changed)
 permissions:
   id-token: write
   pull-requests: read
